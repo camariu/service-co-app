@@ -1,0 +1,22 @@
+{
+  "appointments": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "phone": "123-456-7890",
+      "email": "john@example.com",
+      "car": "Toyota Camry",
+      "action": "Oil Change",
+      "timeSlot": "2024-05-05T10:00:00"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "phone": "456-789-0123",
+      "email": "jane@example.com",
+      "car": "Honda Civic",
+      "action": "Tire Rotation",
+      "timeSlot": "2024-05-06T14:30:00"
+    }
+  ]
+}

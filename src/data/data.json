@@ -1,0 +1,82 @@
+{
+  "clients": [
+    {
+      "id": "1",
+      "last_name": "Popescu",
+      "first_name": "Ion",
+      "phone": [
+        "0740123456",
+        "0219876543"
+      ],
+      "email": "popescu.ion@example.com",
+      "cars": [
+        {
+          "license_plate": "B-123-ABC",
+          "chassis_number": "12345678901234567",
+          "brand": "Audi",
+          "model": "A4",
+          "manufacture_year": 2018,
+          "engine_type": "petrol",
+          "engine_capacity": 2000,
+          "horsepower": 150,
+          "kw_power": 110
+        },
+        {
+          "license_plate": "CJ-99-XYZ",
+          "chassis_number": "98765432109876543",
+          "brand": "BMW",
+          "model": "X5",
+          "manufacture_year": 2020,
+          "engine_type": "diesel",
+          "engine_capacity": 3000,
+          "horsepower": 250,
+          "kw_power": 184
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "last_name": "Ionescu",
+      "first_name": "Maria",
+      "phone": [
+        "0720345678"
+      ],
+      "email": "maria.ionescu@example.com",
+      "cars": [
+        {
+          "license_plate": "IF-77-WWW",
+          "chassis_number": "24681097531246810",
+          "brand": "Volkswagen",
+          "model": "Golf",
+          "manufacture_year": 2016,
+          "engine_type": "hybrid",
+          "engine_capacity": 1600,
+          "horsepower": 120,
+          "kw_power": 88
+        }
+      ]
+    },
+    {
+      "id": "ad7b",
+      "last_name": "costek",
+      "first_name": "eu",
+      "email": "amariutei1998@gmail.com",
+      "phone": [
+        "0742625206"
+      ],
+      "cars": [
+        {
+          "license_plate": "sfer",
+          "chassis_number": "",
+          "brand": "",
+          "model": "",
+          "manufacture_year": "",
+          "engine_type": "",
+          "engine_capacity": "",
+          "horsepower": "",
+          "kw_power": ""
+        }
+      ]
+    }
+  ]
+}
